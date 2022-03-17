@@ -196,10 +196,11 @@ li.active a {
   background-color: #efefef;
   height: 25em;
   margin-bottom: 1em;
+  text-align: center;
 }
 
 #feature2 {
-  background-image: url("");
+  background-image: url("../images/servers3t.png");
   background-repeat: no-repeat;
   background-position: top;
   background-size: cover;
@@ -219,7 +220,7 @@ li.active a {
 }
 
 #feature3 {
-  background-image: url("");
+  background-image: url("../images/servers2.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -239,7 +240,7 @@ li.active a {
 }
 
 #feature4 {
-  background-image: url("");
+  background-image: url("../images/servers1t.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -260,7 +261,7 @@ li.active a {
 }
 
 #feature5 {
-  background-image: url("");
+  background-image: url("../images/servers5.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -270,7 +271,6 @@ li.active a {
 
 #feature5, p {
 text-align: center;
-
 }
 
 #nav, #feature6, #footer {
@@ -285,7 +285,7 @@ text-align: center;
 }
 
 #feature6 {
-  background-image: url("");
+  background-image: url("../images/servers6.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
@@ -305,13 +305,14 @@ text-align: center;
 }
 
 #feature7 {
-  background-image: url("");
+  background-image: url("../images/servers7.jpg");
   background-repeat: no-repeat;
   background-position: bottom;
   background-size: cover;
   font-size: 25px;
 
 }
+
 
 /*Iphone XS*/
 @media screen and 
